@@ -19,3 +19,4 @@ C:\Users\ajs_1\Development\c-sharp\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\
 C:\Users\ajs_1\Development\c-sharp\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\ajs_1\Development\c-sharp\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\ajs_1\Development\c-sharp\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.csproj.CopyComplete
+C:\Users\ajs_1\Development\c-sharp\CatWorx.BadgeMaker\bin\Debug\net6.0\Newtonsoft.Json.dll
