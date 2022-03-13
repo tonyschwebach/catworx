@@ -9,6 +9,7 @@ namespace CatWorx.BadgeMaker
     {
       List<Employee> employees = Util.GetEmployees();
       Util.PrintEmployees(employees);
+      Util.MakeCsv(employees);
     }
   }
 }
