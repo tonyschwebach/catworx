@@ -16,6 +16,7 @@
 - install the C# VS Code extension
 - Install the [dotnet SDK](https://dotnet.microsoft.com/en-us/download)
 ## Usage
+- `dotnet run`
 ## Testing
 ## License
 ## Contributions
